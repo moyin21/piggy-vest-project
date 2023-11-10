@@ -1,0 +1,219 @@
+body{
+    background-color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.greater-than{
+    background-color: gainsboro;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.div1{
+    background-color: white;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 5px;
+}
+p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: rgb(106, 106, 106);
+    font-size: 12px;
+}
+h3{
+    margin-bottom: 0px;
+}
+.div2{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;    
+    height: 60px;
+}
+#great1{
+    /* width: 20px;
+    height: 20px; */
+    margin-left: 130px;
+    color: gainsboro;
+}
+#percentage{
+    background-color: gainsboro;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    padding: 5px;
+    margin-left: 15px;
+    margin-right: 20px; 
+}
+.div3{
+    background-color: white;
+    display: flex;
+    align-items: center;   
+    height: 60px;
+    margin-top: 2px;
+}
+#great2{
+    margin-left: 90px;
+    color: gainsboro;
+}
+#settings{
+    background-color: gainsboro;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    padding: 5px;
+    margin-left: 15px;
+    margin-right: 20px; 
+}
+.div4{
+    background-color: white;
+    display: flex;
+    align-items: center;   
+    height: 60px;
+    margin-top: 2px;
+}
+#great3{
+    margin-left: 40px;
+    color: gainsboro;
+}
+#settings{
+    background-color: gainsboro;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    padding: 5px;
+    margin-left: 15px;
+    margin-right: 20px; 
+}
+.div5{
+    background-color: white;
+    display: flex;
+    align-items: center;   
+    height: 60px;
+    margin-top: 2px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-bottom: 50px;
+}
+#great4{
+    margin-left: 100px;
+    color: gainsboro;
+}
+#info{
+    background-color: gainsboro;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    padding: 5px;
+    margin-left: 15px;
+    margin-right: 20px; 
+}
+#great5{
+    margin-left: 140px;
+    color: gainsboro;
+}
+#lock{
+    background-color: gainsboro;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    padding: 5px;
+    margin-left: 15px;
+    margin-right: 20px; 
+}
+#great6{
+    margin-left: 160px;
+    color: gainsboro;
+}
+#gift{
+    background-color: gainsboro;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    padding: 5px;
+    margin-left: 15px;
+    margin-right: 20px; 
+}
+#great7{
+    margin-left: 120px;
+    color: gainsboro;
+}
+#great8{
+    margin-left: 110px;
+    color: gainsboro;
+}
+#great9{
+    margin-left: 90px;
+    color: gainsboro;
+}
+#great10{
+    margin-left: 110px;
+    color: gainsboro;
+}
+#great11{
+    margin-left: 70px;
+    color: gainsboro;
+}
+#great12{
+    margin-left: 110px;
+    color: gainsboro;
+}
+#call{
+    background-color: gainsboro;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    padding: 5px;
+    margin-left: 15px;
+    margin-right: 20px; 
+}
+#great13{
+    margin-left: 140px;
+    color: gainsboro;
+}
+#switch{
+    background-color: gainsboro;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    padding: 5px;
+    margin-left: 15px;
+    margin-right: 20px; 
+}
+#great14{
+    margin-left: 100px;
+    color: gainsboro;
+}
+#great15{
+    margin-left: 160px;
+    color: gainsboro;
+}
+.div6{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: white;
+    border-top: 1px solid black;
+    height: 50px;
+    position: sticky;
+}
+#home{
+    width: 20px;
+    height: 20px;
+    color: gainsboro;
+}
+#savings{
+    width: 20px;
+    height: 20px;
+    color: gainsboro;
+}
+#investment{
+    width: 20px;
+    height: 20px;
+    color: gainsboro;
+}
+#account{
+    width: 20px;
+    height: 20px;
+}
